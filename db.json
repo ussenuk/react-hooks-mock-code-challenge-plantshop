@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Mango",
+      "image": "https://www.thespruce.com/thmb/wpjmSnh43BwMAe7R3I31yydu_rs=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/grow-mango-seeds-1902625-hero-f222c4c0a3ad4b24a70948ddcec9e5e6.jpg",
+      "price": 2,
+      "id": 8
     }
   ]
 }
